@@ -1,7 +1,7 @@
 <?php
 
 $config = [];
-
+    
 // Database configuration
 $config['db_dsnw'] = 'sqlite:////tmp/sqlite.db?mode=0646';
 
